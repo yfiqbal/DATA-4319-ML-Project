@@ -1,7 +1,6 @@
-# Demo
+# Machine Learning Algorithms
 
-Some description!
+This repository consists of the 10 Machine Learning Algorithms for supervised and unsupervised learning.
 
-## Subheader
-
-Some more text.
+1. Perceptron
+2. 
