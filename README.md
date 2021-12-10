@@ -7,4 +7,5 @@ This repository consists of the 10 Machine Learning Algorithms for supervised an
 3. Linear Regression
 4. Gradient Descent
 5. Logistic Regression
-6. 
+6. Neural Networks
+7. 
