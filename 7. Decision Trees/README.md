@@ -1,6 +1,6 @@
 # Decision Trees  
 
-!(DT.png)  
+![alt text](DT.png)
 
 Decision Trees are flowchart-like tree structures of all the possible solutions to a decision, based on certain conditions. It is called a decision tree as it starts from a root and then branches off to a number of decisions just like a tree.
 
